@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+[https://franlo42-mercury.netlify.app/](https://franlo42-mercury.netlify.app/)
+
 ```sh
 npm create astro@latest -- --template minimal
 ```
